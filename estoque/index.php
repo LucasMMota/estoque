@@ -1,3 +1,3 @@
 <?php
-require 'app' . DIRECTORY_SEPARATOR . 'index.php';
+require 'public_html' . DIRECTORY_SEPARATOR . 'index.php';
 ?>
