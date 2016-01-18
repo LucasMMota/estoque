@@ -1,0 +1,4 @@
+[Sat Nov 01 18:44:56.544828 2014] [access_compat:error] [pid 1592:tid 896] [client 127.0.0.1:57215] AH01797: client denied by server configuration: C:/wamp/www/projeto/public_html/s
+[Sat Nov 01 18:45:06.264340 2014] [access_compat:error] [pid 1592:tid 900] [client 127.0.0.1:57216] AH01797: client denied by server configuration: C:/wamp/www/projeto/public_html/ssss
+[Sat Nov 01 18:46:47.428120 2014] [core:alert] [pid 1592:tid 900] [client 127.0.0.1:57231] C:/wamp/www/projeto/public_html/.htaccess: Invalid command 'RewriteRule', perhaps misspelled or defined by a module not included in the server configuration
+[Sat Nov 01 18:53:32.279684 2014] [core:alert] [pid 1592:tid 900] [client 127.0.0.1:57392] C:/wamp/www/projeto/public_html/.htaccess: Invalid command 'RewriteRule', perhaps misspelled or defined by a module not included in the server configuration
